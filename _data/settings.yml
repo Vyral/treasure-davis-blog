@@ -1,4 +1,4 @@
-audit_header: true
+audit_header: false
 title: Treasure Davis Real Estate Video Blog
 description: If you are looking to buy or sell a home, get all the information and the latest updates, tips, and tricks from The Treasure Davis Team - your professional Colorado Springs Real Estate Agents.
 show_custom_links: false
@@ -21,7 +21,7 @@ client:
   first_CTA_URL: http://www.treasuredavis.com/sell/
   second_CTA_text: Home Search
   second_CTA_URL: http://www.treasuredavis.com/buy/
-  VR_form:
+  VR_form: http://oi.vresp.com?fid=17b8cb16c6
 socials:
   review_sm_icons: false
   facebook_url: https://www.facebook.com/ColoradoSpringsHouseValues/
@@ -48,7 +48,7 @@ images:
   hero_logo_path: '/img/logo.png'
   hero_text: Real Estate Video Blog
   hero_background_hex: '#730709'
-  hero_image_path: '/img/banner.jpg'
+  hero_image_path: '/img/background.jpg'
 brand_color: '#730709'
 theme_color: '#730709'
 theme_text_color: '#353535'
