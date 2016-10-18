@@ -1,0 +1,56 @@
+audit_header: true
+title: Treasure Davis Real Estate Video Blog
+description: If you are looking to buy or sell a home, get all the information and the latest updates, tips, and tricks from The Treasure Davis Team - your professional Colorado Springs Real Estate Agents.
+show_custom_links: false
+custom_links:
+  - title:
+    url:
+client:
+  name: Treasure Davis
+  license_number:
+  about_markdown: |
+
+  market: Colorado Springs
+  brand: The Treasure Davis Team
+  brokerage: RE/Max Properties
+  address: 1740 Chapel Hills Dr.<br>Colorado Springs, CO 80920
+  phone: (719) 354-7746
+  email: homes@treasuredavis.com
+  url: http://www.treasuredavis.com/
+  first_CTA_text: Home Evaluation
+  first_CTA_URL: http://www.treasuredavis.com/sell/
+  second_CTA_text: Home Search
+  second_CTA_URL: http://www.treasuredavis.com/buy/
+  VR_form:
+socials:
+  review_sm_icons: false
+  facebook_url: https://www.facebook.com/ColoradoSpringsHouseValues/
+  linkedin_url: https://www.linkedin.com/in/coloradospringshomes
+  gplus_url: https://plus.google.com/105388789002130783183
+  youtube_url: https://www.youtube.com/user/treasuredavis1
+  twitter_url: https://twitter.com/teamdavis1004
+  instagram_url:
+  pinterest_url:
+  zillow_url: http://www.zillow.com/profile/TreasureDavis/
+  trulia_url: https://www.trulia.com/profile/treasure-davis-agent-colorado-springs-co-zg6v559n/overview
+  yelp_url: https://www.yelp.com/biz/treasure-davis-re-max-properties-colorado-springs
+  podcast_url:
+podcast:
+  title:
+  categories: News & Politics
+  image:
+  subtitle: 'Learn all the tips, tricks and more for buyers and sellers in the Colorado Springs Area Real Estate Market'
+  description: 'If you are looking to buy or sell a home, get all the information and the latest updates, tips, and tricks from The Treasure Davis Team - your professional Colorado Springs Real Estate Agents.'
+  keywords: 'Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in San Francisco, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer'
+  author:
+images:
+  client_headshot_path: '/img/headshot.jpg'
+  hero_logo_path: '/img/logo.png'
+  hero_text: Real Estate Video Blog
+  hero_background_hex: '#730709'
+  hero_image_path: '/img/banner.jpg'
+brand_color: '#730709'
+theme_color: '#730709'
+theme_text_color: '#353535'
+main_body_color: '#ffffff'
+main_body_text_color: '#353535'
