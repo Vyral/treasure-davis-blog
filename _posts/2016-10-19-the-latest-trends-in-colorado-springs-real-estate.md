@@ -18,9 +18,9 @@ youtube_code: BogktIBHUlI
 
 Today I want to talk about market conditions in Colorado Springs. I did some research recently and found some information that you might find helpful. According to the latest report by Keeping Current Matters, things are looking up for real estate this fall.
 
-According to the numbers gathered by the federal housing finance agency, home prices have risen in every region of the United States over the last year. Every state is appreciating at a different rate, so even though your area might not be appreciating as quickly as others, there is still a very good chance that your home value has gone up.
+According to the numbers gathered by the Federal Housing Finance Agency, home prices have risen in every region of the United States over the last year. Every state is appreciating at a different rate, so even though your area might not be appreciating as quickly as others, there is still a very good chance that your home value has gone up.
 
-If you want a more specific idea of how much your home has appreciated in our market, you can use our free home valuation tool. You may be surprised to find out what your home is really worth. As home prices recover and rise above their pre-recession levels, the real estate market will begin to normalize.
+If you want a more specific idea of how much your home has appreciated in our market, you can use our **[free home valuation tool](http://www.treasuredavis.com/sell/)**. You may be surprised to find out what your home is really worth. As home prices recover and rise above their pre-recession levels, the real estate market will begin to normalize.
 
 By the end of this year, home values are projected to go up by 4.1%. Next year, prices are expected to rise 3.7% before flattening to just over 3% from 2017 to 2019. This expected slowdown in home appreciation is the result of a normal, healthy real estate market.
 
