@@ -13,6 +13,56 @@ html
   text-shadow: none
   background: $brand
   color: $light-text
+.sidebar
+  background: #fff
+  padding: 20px
+  margin: 10px
+  @include shadow
+
+.site-logo, h1.site-title
+  animation: 1s ease-in-out fadein
+
+.content-container, .post-container
+  animation: 1s ease-in-out slideup
+nav
+  animation: 1s ease-in-out slidedown
+.sidebar, .topbar, .post-block
+  animation: 1s ease-in-out slideup
+nav.socials
+  animation: 1s ease-in-out slideup
+@keyframes slideup
+  0%
+    opacity: 0
+    transform: translateY(40px)
+    -webkit-transform: translateY(40px)
+    -ms-transform: translateY(40px)
+  100%
+    opacity: 1
+    transform: translateY(0px)
+    -webkit-transform: translateY(0px)
+    -ms-transform: translateY(0px)
+@keyframes slidedown
+  0%
+    opacity: 0
+    transform: translateY(-40px)
+    -webkit-transform: translateY(-40px)
+    -ms-transform: translateY(-40px)
+  100%
+    opacity: 1
+    transform: translateY(0px)
+    -webkit-transform: translateY(0px)
+    -ms-transform: translateY(0px)
+@keyframes fadein
+  0%
+    transform: scale(1.01)
+    -webkit-transform: scale(1.01)
+    -ms-transform: scale(1.01)
+    opacity: 0
+  100%
+    transform: scale(1)
+    -webkit-transform: scale(1)
+    -ms-transform: scale(1)
+    opacity: 1
 
 // ::-webkit-scrollbar
 //  width: 12px
@@ -38,6 +88,7 @@ body
   color: $theme-body-text
   margin: 0
   background: $theme-body-color
+  animation: 1s ease-in-out fadein
 
 h1, h2, h3, h4, h5, h6
   font-family: $headerfont
@@ -146,3 +197,6 @@ table
 //   margin-top: 20px
 //   &:hover
 //     +shadow
+// @media (max-width: 1200px)
+//   .sidebar
+//     max-width: 350px

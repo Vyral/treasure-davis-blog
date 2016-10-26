@@ -4,8 +4,31 @@
   border-radius: 9px 9px 0 0
   @include shadow
 
+.post-block
+  background-color: #fff
+  padding: 10px
+  margin-top: 10px
+  @include shadow
+  width: 30%
+
+
+.post-block-container
+  display: inline-flex
+  justify-content: space-around
+  flex-wrap: wrap
+
+.post-block-container:after
+  content: ""
+  flex: initial
+  width: 30%
+  padding: 10px
+  margin-top: 10px
+
 .post-container
-  padding-right: 20px
+  background: #fff
+  @include shadow
+  margin: 10px
+  padding: 10px
 .pad
   padding: 0 2rem
 
@@ -14,7 +37,7 @@
     display: inline
 
 .post-overview-title
-  font-size: 3rem
+  font-size: 2.8rem
   text-align: left
 
 .post-title
@@ -23,17 +46,17 @@
 
 .post-image
   width: 100%
-  padding-bottom: 20px
+  padding-bottom: 0px
 
 .excerpt
-  font-size: 18px
+  font-size: 16px
   padding-bottom: 20px
 
-.post-list
-  ul
-    margin: 0 auto
-  li
-    display: inline
+// .post-list
+//   ul
+//     margin: 0 auto
+//   li
+//     display: inline
 
 // .content-container
 // 	padding: 10px 5px 30px 5px
@@ -224,7 +247,8 @@
     //padding-left: 2rem
   .post-wrapper
     height: 575px
-
+  .post-block
+    width: 100%
 
 @media (max-width: 550px)
   .six.columns.post-wrapper
@@ -241,6 +265,18 @@
       margin: 1.5rem
     .headshot
       display: none
-@media (max-width: 992px)
-  .post-container
-    padding-right: 0px
+@media (max-width: 1200px)
+  .post-block
+    width: 100%
+@media (max-width: 1300px)
+  .post-block
+    width: 45%
+  .post-block-container:after
+    content: ""
+    flex: initial
+    width: 45%
+    padding: 10px
+    margin-top: 10px
+@media (max-width: 600px)
+  .post-block
+    width: 100%

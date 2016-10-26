@@ -1,10 +1,10 @@
 audit_header: false
 title: Treasure Davis Real Estate Video Blog
 description: If you are looking to buy or sell a home, get all the information and the latest updates, tips, and tricks from The Treasure Davis Team - your professional Colorado Springs Real Estate Agents.
-show_custom_links: false
+show_custom_links: true
 custom_links:
-  - title:
-    url:
+  - title: Our Listings
+    url: http://www.treasuredavis.com/results/?UserID=all
 client:
   name: Treasure Davis
   license_number:
@@ -14,11 +14,11 @@ client:
     Treasure Davis is proud to be a Volunteer Realtor on Ft. Carson. Assisting our military is gives her pride in giving back to people that give so much every day! Treasure Davis, Realtor in Colorado Springs is proud to offer her MilitaryFirst program to all active duty and retired military members.
   market: Colorado Springs
   brand: The Treasure Davis Team
-  brokerage: RE/Max Properties
+  brokerage: RE/MAX Properties, Inc.
   address: 1740 Chapel Hills Dr.<br>Colorado Springs, CO 80920
   phone: (719) 354-7746
   email: homes@treasuredavis.com
-  url: http://www.treasuredavis.com/
+  url: http://www.treasuredavis.com
   first_CTA_text: Home Evaluation
   first_CTA_URL: http://www.treasuredavis.com/sell/
   second_CTA_text: Home Search
@@ -54,5 +54,5 @@ images:
 brand_color: '#730709'
 theme_color: '#730709'
 theme_text_color: '#353535'
-main_body_color: '#ffffff'
+main_body_color: '#F9F9F9'
 main_body_text_color: '#353535'

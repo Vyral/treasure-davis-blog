@@ -1,12 +1,12 @@
 ---
 layout: post
-title: this is a test
+title: this is a test post
 tags:
   - Market Update
   - Real Estate
   - Buyer Tips
   - Home Seller Tips
-excerpt: 'Master cleanse pork belly pour-over VHS Master cleanse pork belly pour-over VHS kogi locavore. Butcher chartreuse pour-over, farm-to-table slow-carb asymmetrical hexagon man braid.'
+excerpt: 'Master cleanse pork belly pour-over VHS kogi locavore. Butcher chartreuse pour-over, farm-to-table slow-carb asymmetrical hexagon man braid.'
 enclosure:
 pullquote: This is an example of a pull quote
 enclosure_type: video/mp4

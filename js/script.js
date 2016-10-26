@@ -115,4 +115,20 @@ $(document).ready(function() {
 	  })
 
 
+		//toggle trancated testimonials to expand
+		$('.item-toggle').on('click', function(event){
+			 var $this = $(this)
+			//  console.log($this.parent('div#item-truncated').parent('div.item').children('div#item-expanded'));
+			 if($this.parent('div#item-expanded').parent('div.item').children('div#item-truncated').hasClass('item-hide')){
+				 $this.parent('div#item-expanded').parent('div.item').children('div#item-truncated').removeClass('item-hide');
+				 $this.parent('div#item-expanded').parent('div.item').children('div#item-expanded').addClass('item-hide');
+				 console.log($this.siblings('.testimonial').text().length);
+			 } else{
+				//  console.log($this.parent('div#item-truncated').parent('div.item').children('div#item-expanded'));
+				 $this.parent('div').parent('div.item').children('div#item-expanded').removeClass('item-hide');
+				 $this.parent('div#item-truncated').parent('div.item').children('div#item-truncated').addClass('item-hide');
+					console.log($this.siblings('.testimonial').text().length);
+			 }
+		});
+
 });
