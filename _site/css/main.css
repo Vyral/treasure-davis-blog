@@ -1729,6 +1729,7 @@ table tr, table td {
 
 .post-image {
   width: 100%;
+  height: auto;
   padding-bottom: 0px; }
 
 .excerpt {
@@ -1741,7 +1742,7 @@ table tr, table td {
   border: 1px solid #730709;
   border-radius: 5px;
   padding: 10px 20px;
-  margin-top: 20px;
+  margin-bottom: 20px;
   text-decoration: none;
   font-size: 16px;
   -webkit-transition: all 0.15s ease-out 0s;
