@@ -1,28 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
-<loc>treasuredavisrealestateadvisors.com/this-is-a-test.html</loc>
-<lastmod>2016-10-24T00:00:00-05:00</lastmod>
-</url>
-<url>
 <loc>treasuredavisrealestateadvisors.com/the-latest-trends-in-colorado-springs-real-estate.html</loc>
 <lastmod>2016-10-19T00:00:00-05:00</lastmod>
-</url>
-<url>
-<loc>treasuredavisrealestateadvisors.com/this-is-a-test.html</loc>
-<lastmod>2016-10-17T00:00:00-05:00</lastmod>
-</url>
-<url>
-<loc>treasuredavisrealestateadvisors.com/this-is-a-test.html</loc>
-<lastmod>2016-10-07T00:00:00-05:00</lastmod>
-</url>
-<url>
-<loc>treasuredavisrealestateadvisors.com/this-is-a-test.html</loc>
-<lastmod>2016-10-05T00:00:00-05:00</lastmod>
-</url>
-<url>
-<loc>treasuredavisrealestateadvisors.com/a-fox-in-space.html</loc>
-<lastmod>2016-09-29T00:00:00-05:00</lastmod>
 </url>
 <url>
 <loc>treasuredavisrealestateadvisors.com/404.html</loc>
@@ -43,7 +23,7 @@
 <loc>treasuredavisrealestateadvisors.com/search.html</loc>
 </url>
 <url>
-<loc>treasuredavisrealestateadvisors.com/page2/</loc>
+<loc>treasuredavisrealestateadvisors.com/thankyou/</loc>
 </url>
 <url>
 <loc>treasuredavisrealestateadvisors.com/bower_components/jPlayer/dist/skin/blue.monday/mustache/jplayer.blue.monday.audio.playlist.html</loc>
