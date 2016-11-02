@@ -47,7 +47,7 @@ socials:
   zillow_url: 'http://www.zillow.com/profile/TreasureDavis/'
   trulia_url: 'https://www.trulia.com/profile/treasure-davis-agent-colorado-springs-co-zg6v559n/overview'
   yelp_url: 'https://www.yelp.com/biz/treasure-davis-re-max-properties-colorado-springs'
-  podcast_url:
+  podcast_url: https://itunes.apple.com/us/podcast/treasure-davis-team-real-estate/id1171523389?mt=2
 podcast:
   title: The Treasure Davis Team Real Estate Podcast
   categories: News & Politics
