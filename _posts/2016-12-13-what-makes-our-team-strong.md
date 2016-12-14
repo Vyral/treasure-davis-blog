@@ -24,7 +24,7 @@ Business partner Leighanne Potts focuses on client relationships with the team a
 
 {% include pullquote.html %}
 
-Angela Clark is a listing coordinator who helps you get all the way through to the contract stage of the process. She's your personalized lister.
+Angela Clark is a listing coordinator who helps you get all the way through to the contract stage of the process.
 
 Aeriel Barr is part of the transaction coordination team here. Once a deal goes under contract, this part of our team helps make sure it's a seamless process from start to finish for both buyers and sellers.
 
