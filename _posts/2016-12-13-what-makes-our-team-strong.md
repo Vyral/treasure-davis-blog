@@ -34,7 +34,7 @@ Jed Johnson is our newest team member and he's a buyer specialist. He really lik
 
 Aaron Davis focuses on the listing side as a business manager. He's in charge of signs and lock boxes in addition to meeting with appraisers.
 
-Our marketing coordinator, Hannah Knight, and transaction coordinator, Liz Rothring, weren't able to join us for this exercise, but they are definitely vital parts of our team and our success.
+Our transaction coordinator, Liz Rothring, and our marketing coordinator weren't able to join us for this exercise, but they are definitely vital parts of our team and our success.
 
 As a team, we believe we're powerful and able to make sure you have the best service possible. We want to help you find the right home and make sure the process goes smoothly for you along the way.
 
