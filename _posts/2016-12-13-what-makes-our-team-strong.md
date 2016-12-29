@@ -28,13 +28,13 @@ Angela Clark is a listing coordinator who helps you get all the way through to t
 
 Aeriel Barr is part of the transaction coordination team here. Once a deal goes under contract, this part of our team helps make sure it's a seamless process from start to finish for both buyers and sellers.
 
-Dean Jaeger is a sales agent and he helps clients with purchasing their homes and developing relationships. He's there to answer any questions before, during, and after the process. He constantly aims to keep a good relationship with our clients.
+Dean Jaeger is a sales partner and he helps clients with purchasing their homes and developing relationships. He's there to answer any questions before, during, and after the process. He constantly aims to keep a good relationship with our clients.
 
-Jed Johnson is our newest team member and he's a buyer specialist. He really likes working with investors, but he specializes in working with any home buyer.
+Jed Johnson is our newest team member and he's a sales partner. He really likes working with investors, but he specializes in working with any home buyer.
 
 Aaron Davis focuses on the listing side as a business manager. He's in charge of signs and lock boxes in addition to meeting with appraisers.
 
-Our transaction coordinator, Liz Rothring, and our marketing coordinator weren't able to join us for this exercise, but they are definitely vital parts of our team and our success.
+Our transaction coordinator, Liz Rothring, and our marketing coordinator, Victoria Morak weren't able to join us for this exercise, but they are definitely vital parts of our team and our success.
 
 As a team, we believe we're powerful and able to make sure you have the best service possible. We want to help you find the right home and make sure the process goes smoothly for you along the way.
 
