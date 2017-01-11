@@ -24,10 +24,8 @@ If you’re buying a home, chances are you will opt for a 30-year fixed rate mor
 
 In general, the movement of the Fed’s rate does not have a large direct impact on long-term rates. However, when the Fed’s rate does go up, the banks always find ways to pass their higher borrowing costs along to the consumers. Because long-term mortgage rates are set in stone, they factor in the anticipation of future rate increases as well.
 
-<br>The Federal Reserve has suggested that interest rates will likely continue to rise. As rates go up, people are less likely to buy a house. Those with fixed rates are also less likely to refinance.
+The Federal Reserve has suggested that interest rates will likely continue to rise. As rates go up, people are less likely to buy a house. Those with fixed rates are also less likely to refinance.
 
 {% include pullquote.html %}
 
 Now is the time to either buy or sell a home. Interest rates are still historically low for the time buying, and you can lock in a low rate for a long time right now. If you have any questions for us, don’t hesitate to reach out and give us a call or send us an email. We look forward to hearing from you soon.
-
-<br>Teaser: In case you haven’t heard, interest rates have gone up. Although the move was widely expected, the fact of the matter is that homes are more expensive now than they were just a few months ago. What should you do before rates go up even further? We’ve got some advice to share. To hear it, watch our latest video.
