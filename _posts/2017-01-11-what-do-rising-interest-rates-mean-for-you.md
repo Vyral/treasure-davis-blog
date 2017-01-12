@@ -28,4 +28,4 @@ The Federal Reserve has suggested that interest rates will likely continue to ri
 
 {% include pullquote.html %}
 
-Now is the time to either buy or sell a home. Interest rates are still historically low for the time buying, and you can lock in a low rate for a long time right now. If you have any questions for us, don’t hesitate to reach out and give us a call or send us an email. We look forward to hearing from you soon.
+Now is the time to either buy or sell a home. Interest rates are still historically low for the time being, and you can lock in a low rate for a long time right now. If you have any questions for us, don’t hesitate to reach out and give us a call or send us an email. We look forward to hearing from you soon.
