@@ -20,7 +20,7 @@ If you’ve made the transition from renter to homeowner, you’ll want to learn
 
 One of the major benefits to owning a home is getting to build your wealth, and there are a few ways to go about doing it.
 
-<br>The first is through long-term homeownership. If you’ve owned your home for awhile, especially if put a mortgage on it, over time you start paying off the principle rather than interest. This builds long-term wealth into your property.
+The first is through long-term homeownership. If you’ve owned your home for awhile, especially if put a mortgage on it, over time you start paying off the principle rather than interest. This builds long-term wealth into your property.
 
 {% include pullquote.html %}
 
@@ -30,4 +30,4 @@ You can also take out a home equity line of credit. It’s possible to use that 
 
 Also, over time, if you’re a single person and you have lived in your home as your primary residence for at least two years, you have the potential to realize a profit of up to $250,000 without paying taxes thanks to capital gains. If you’re married, that number doubles to $500,000.
 
-<br>If you have any other questions about how to build your wealth through homeownership, or have any other real estate-related questions, please reach out by giving me a call or shooting me an email. I look forward to hearing from you!
+If you have any other questions about how to build your wealth through homeownership, or have any other real estate-related questions, please reach out by giving me a call or shooting me an email. I look forward to hearing from you!
