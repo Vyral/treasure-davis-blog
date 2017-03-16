@@ -28,7 +28,7 @@ Depending on the age and style of your home, there is a long list of improvement
 * Replace any chipped or peeling paint
 * Place a colorful doormat on your front porch
 
-We are in an area where buyers are heavily financed by VA and FHA loans. **Accomplishing the list of tasks above gives you a much better shot at ensuring your home passes the appraisal**when the time comes.
+We are in an area where buyers are heavily financed by VA and FHA loans. **Accomplishing the list of tasks above gives you a much better shot at ensuring your home passes the appraisal&nbsp;**when the time comes.
 
 {% include pullquote.html %}
 
